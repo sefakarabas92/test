@@ -6,7 +6,6 @@ ee
 ipyleaflet
 ipywidgets
 bqplot
-subprocess
 pandas
 geemap.colormaps
 numpy

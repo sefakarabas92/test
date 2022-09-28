@@ -7,11 +7,9 @@ ipyleaflet
 ipywidgets
 bqplot
 pandas
-geemap.colormaps
 numpy
 matplotlib.pyplot
 seaborn
-matplotlib.pyplot
 
 
 

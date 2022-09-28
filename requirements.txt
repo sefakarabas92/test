@@ -4,7 +4,6 @@ leafmap
 Jinja2==3.0.3
 ee
 ipyleaflet
-piplite
 ipywidgets
 os
 bqplot

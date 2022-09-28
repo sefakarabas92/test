@@ -8,7 +8,6 @@ ipywidgets
 bqplot
 pandas
 numpy
-matplotlib.pyplot
 seaborn
 
 
